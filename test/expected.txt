@@ -168,7 +168,7 @@
 || 	3. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 	4. Dickson Ee  Phone Number: 69696969  Email: dickson@nus.edu.sg
 || 	5. Esther Potato  Phone Number: 89898989  Email: esther@notreal.com
-||
+|| 
 || 5 persons found!
 || ===================================================
 || Enter command: || [Command entered:  find]
