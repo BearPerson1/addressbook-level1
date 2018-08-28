@@ -1069,7 +1069,7 @@ public class AddressBook {
      * @return whether arg is a valid person email
      */
     private static boolean isPersonEmailValid(String email) {
-        return email.matches("\\S+@\\S+\\.com")||email.matches("\\S+@\\S+\\.edu.sg")||email.matches("\\S+@\\S+\\.org"); // email is [non-whitespace]@[non-whitespace].[non-whitespace]
+        return email.matches("\\w+@\\S+\\.com")||email.matches("\\w+@\\S+\\.edu.sg")||email.matches("\\w+@\\S+\\.org"); // email is [non-whitespace]@[non-whitespace].[non-whitespace]
         //TODO: implement a more permissive validation
     }
 
