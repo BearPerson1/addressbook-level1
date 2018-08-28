@@ -34,11 +34,11 @@
   list
 
   # order of phone and email should not matter
-  add Charlie Dickson e/charlie.d@nus.edu.sg p/66666666
+  add Charlie Dickson e/charlied@nus.edu.sg p/66666666
   list
   add Dickson Ee e/dickson@nus.edu.sg p/69696969
   list
-  add Esther Potato p/89898989 e/esther@notreal.potato
+  add Esther Potato p/89898989 e/esther@notreal.com
   list
 
 ##########################################################
