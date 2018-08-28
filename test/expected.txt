@@ -138,13 +138,13 @@
 || 
 || 2 persons found!
 || ===================================================
-|| Enter command: || [Command entered:  add Charlie Dickson e/charlie.d@nus.edu.sg p/66666666]
-|| New person added: Charlie Dickson, Phone: 66666666, Email: charlie.d@nus.edu.sg
+|| Enter command: || [Command entered:  add Charlie Dickson e/charlied@nus.edu.sg p/66666666]
+|| New person added: Charlie Dickson, Phone: 66666666, Email: charlied@nus.edu.sg
 || ===================================================
 || Enter command: || [Command entered:  list]
 || 	1. Adam Brown  Phone Number: 99999999  Email: adam@gmail.com
 || 	2. Betsy Choo  Phone Number: 88888888  Email: benchoo@nus.edu.sg
-|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 
 || 3 persons found!
 || ===================================================
@@ -154,21 +154,20 @@
 || Enter command: || [Command entered:  list]
 || 	1. Adam Brown  Phone Number: 99999999  Email: adam@gmail.com
 || 	2. Betsy Choo  Phone Number: 88888888  Email: benchoo@nus.edu.sg
-|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 	4. Dickson Ee  Phone Number: 69696969  Email: dickson@nus.edu.sg
 || 
 || 4 persons found!
 || ===================================================
-|| Enter command: || [Command entered:  add Esther Potato p/89898989 e/esther@notreal.potato]
-|| New person added: Esther Potato, Phone: 89898989, Email: esther@notreal.potato
+|| Enter command: || [Command entered:  add Esther Potato p/89898989 e/esther@notreal.com]
+|| New person added: Esther Potato, Phone: 89898989, Email: esther@notreal.com
 || ===================================================
 || Enter command: || [Command entered:  list]
 || 	1. Adam Brown  Phone Number: 99999999  Email: adam@gmail.com
 || 	2. Betsy Choo  Phone Number: 88888888  Email: benchoo@nus.edu.sg
-|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| 	3. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 	4. Dickson Ee  Phone Number: 69696969  Email: dickson@nus.edu.sg
-|| 	5. Esther Potato  Phone Number: 89898989  Email: esther@notreal.potato
-|| 
+|| 	5. Esther Potato  Phone Number: 89898989  Email: esther@notreal.com
 || 5 persons found!
 || ===================================================
 || Enter command: || [Command entered:  find]
@@ -193,14 +192,14 @@
 || 1 persons found!
 || ===================================================
 || Enter command: || [Command entered:  find Dickson]
-|| 	1. Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| 	1. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 	2. Dickson Ee  Phone Number: 69696969  Email: dickson@nus.edu.sg
 || 
 || 2 persons found!
 || ===================================================
 || Enter command: || [Command entered:  find Charlie Betsy]
 || 	1. Betsy Choo  Phone Number: 88888888  Email: benchoo@nus.edu.sg
-|| 	2. Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| 	2. Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || 
 || 2 persons found!
 || ===================================================
@@ -236,7 +235,7 @@
 || The person index provided is invalid
 || ===================================================
 || Enter command: || [Command entered:  delete 2]
-|| Deleted Person: Charlie Dickson  Phone Number: 66666666  Email: charlie.d@nus.edu.sg
+|| Deleted Person: Charlie Dickson  Phone Number: 66666666  Email: charlied@nus.edu.sg
 || ===================================================
 || Enter command: || [Command entered:  delete 2]
 || Person could not be found in address book
@@ -245,12 +244,12 @@
 || 	1. Adam Brown  Phone Number: 99999999  Email: adam@gmail.com
 || 	2. Betsy Choo  Phone Number: 88888888  Email: benchoo@nus.edu.sg
 || 	3. Dickson Ee  Phone Number: 69696969  Email: dickson@nus.edu.sg
-|| 	4. Esther Potato  Phone Number: 89898989  Email: esther@notreal.potato
+|| 	4. Esther Potato  Phone Number: 89898989  Email: esther@notreal.com
 || 
 || 4 persons found!
 || ===================================================
 || Enter command: || [Command entered:  delete 4]
-|| Deleted Person: Esther Potato  Phone Number: 89898989  Email: esther@notreal.potato
+|| Deleted Person: Esther Potato  Phone Number: 89898989  Email: esther@notreal.com
 || ===================================================
 || Enter command: || [Command entered:  list]
 || 	1. Adam Brown  Phone Number: 99999999  Email: adam@gmail.com
